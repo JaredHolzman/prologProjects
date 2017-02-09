@@ -11,4 +11,4 @@ To run the each program:
 
 
 ##Graph Coloring
-The graphColoringMassCounties.pro file colors a Massachusettes map with three color so that no neighbors are the same color. A map of Mass counties has been included in the repo for reference.
+The graphColoringMassCounties.pro file colors a Massachusettes map with three colors so that no neighbors are the same color. A map of Mass counties has been included in the repo for reference.
